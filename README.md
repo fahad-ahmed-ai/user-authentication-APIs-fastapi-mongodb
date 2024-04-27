@@ -115,4 +115,4 @@ Make HTTP requests to the defined endpoints using appropriate methods (GET, POST
 
 ## Contributors
 
-- [Fahad Ahmed](https://github.com/fahad-ahmed-ai)
+- [Sheikh Fahad Ahmed](https://github.com/fahad-ahmed-ai)
