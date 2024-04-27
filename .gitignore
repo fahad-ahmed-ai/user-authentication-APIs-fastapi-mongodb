@@ -1,0 +1,13 @@
+env
+.env
+env
+/venv
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+/node_modules
+/dist
+__pycache__/
+*.pyc
+.DS_Store
