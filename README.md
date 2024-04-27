@@ -28,7 +28,7 @@ The project is structured as follows:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/fahad-ahmed-ai/user-authentication-APIs-fastapi-mongodb.git
    ```
 
 2. Install dependencies:
